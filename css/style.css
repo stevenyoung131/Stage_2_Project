@@ -9,6 +9,10 @@
   font-family: 'Lato', sans-serif;
 }
 
+a {
+	margin-bottom: 5px;
+}
+
 h1 {
   font-weight: 100;
   margin-bottom: 0px;
@@ -24,13 +28,13 @@ h3 {
   color: #BCBBBB;
   font-weight: 400;
   font-size: 140%;
-  margin-bottom: 0px;
 }
 
 h4 {
   color: #585953;
   font-size: 20px;
   text-align: center;
+  margin-bottom: 4px;
 }
 
 .url-proj {
@@ -48,7 +52,7 @@ h4 {
 }
 
 .img-small {
-	vertical-align: baseline;
+	margin: 10px 0;
 }
 
 @media screen and (max-width: 400px){
